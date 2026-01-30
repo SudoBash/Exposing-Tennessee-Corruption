@@ -42,7 +42,7 @@ This collection of legal motions documents a case where a defendant was forced t
 
 **Missing/Destroyed Evidence:**
 - **Dashboard camera footage** from 6 responding police officers
-- Officers identified: [OFFICER 1-6]
+- Officers identified: [OFFICER 1-6] (12 actually responded, including ATF.)
 - Each officer had individual patrol car with dash cam
 - Defendant's attorney requested videos BEFORE the alleged "catastrophic data loss"
 - Hamilton County Sheriff's Department later claimed "catastrophic data loss" affecting 130 patrol deputies' footage
